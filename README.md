@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="340" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1736380800&v=beta&t=TFWDDCgbp_ODcT0XUeiakhdmwhmz-5o1tuLuKY6u8eo">
 
 
-- 🔭 I’m currently working on **Software Quality Assurance (SQA) Engineering**
+- 🔭 I’m currently working on **Software Quality Assurance (SQA)**
   
 - 🌱  I’m currently learning **Webflow**
 
